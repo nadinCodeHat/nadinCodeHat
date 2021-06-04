@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+Hi, I'm Nadin Pethiyagoda, a self taught programmer from Sri Lanka.
 <!--
 **nadinCodeHat/nadinCodeHat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
