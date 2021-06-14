@@ -15,9 +15,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- ### My skills:
+
 <div align = "center"> 
 
+   ### My skills:
   <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -36,3 +37,18 @@ Here are some ideas to get you started:
   <!--<img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green">
   <img alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
   <img alt="" src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white">-->
+ 
+   ### Connect with me:
+  
+  <p align="center">
+  <a href="https://www.linkedin.com/in/nadin-pethiyagoda-62b424190/">
+    <img align="center" width="26px" img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt=“Nadin's LinkedIn Profile" height="30" width="30">
+  </a>
+   <a href="https://twitter.com/NadinPethiyago1">
+    <img align="center" width="26px" img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" 
+    alt=“Nadin's Twitter Profile" height="30" width="30" hspace="20">
+  </a>     
+    <a href="https://www.instagram.com/peththa__">
+    <img align="center" width="28px" img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt=“Nadin's Instagram Profile" height="30" width="30" >
+  </a>
+</p>
