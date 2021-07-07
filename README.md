@@ -52,5 +52,3 @@ Here are some ideas to get you started:
     <img align="center" width="28px" img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt=“Nadin's Instagram Profile" height="30" width="30" >
   </a>
 </p>
-   
-# Hi Supipi kohomoda!
