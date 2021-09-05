@@ -16,3 +16,5 @@ As a computer engineer, I enjoy using my obsessive attention to detail, my unequ
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nadinCodeHat&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadinCodeHat&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
+
+![](https://activity-graph.herokuapp.com/graph?username=nadinCodeHat&theme=react-dark&area=true)
