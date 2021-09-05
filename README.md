@@ -1,5 +1,7 @@
 <h3 align="center" >Hi there, I'm <a href="https://github.com/nadinCodeHat">Nadin Pethiyagoda</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
+  <br>
+  
 <p align="center">
   <a href="https://github.com/nadinCodeHat/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Engineer;Full+Stack+Developer;CE+Undergrad;Always+Learning&center=true&width=380&height=45"></a>
 </p>
