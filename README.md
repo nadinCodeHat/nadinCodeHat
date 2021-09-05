@@ -6,6 +6,8 @@
 <p align="center">
   <a href="https://github.com/nadinCodeHat/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Engineer;Full+Stack+Developer;CE+Undergrad;Always+Learning&center=true&width=380&height=45"></a>
 </p>
+
+### Connect with me:
   
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nadin-pethiyagoda-62b424190/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/NadinPethiyago1)
