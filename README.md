@@ -20,7 +20,7 @@ I am a self-taught computer engineer and a full stack developer, specializing in
 As a computer engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
 
 ### Tech Stack
-<img src="./icons/c.svg"/>
+<img src="./icons/c.svg" width="50px" height="50px"/>
   
 📈 ## My GitHub Stats:##
 
