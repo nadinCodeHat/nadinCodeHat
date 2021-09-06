@@ -22,8 +22,7 @@ As a computer engineer, I enjoy using my obsessive attention to detail, my unequ
 ### Research Interests
 - Deep Learning
 - Computer Vision
-- IoT (Internet of Things)
-  
+- IoT (Internet of Things) 
 <br>
 - 🔭 I’m currently working on my Final Year Research Project.
 <br>
