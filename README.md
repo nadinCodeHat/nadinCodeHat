@@ -73,7 +73,7 @@ As a computer engineer, I enjoy using my obsessive attention to detail, my unequ
   <img src="./icons/visual-studio-code.svg" width="50px" height="50px"/>
 </p>  
   
-📈 ## My GitHub Stats:##
+📈 **My GitHub Stats:**
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nadinCodeHat&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
