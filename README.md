@@ -22,43 +22,46 @@ As a computer engineer, I enjoy using my obsessive attention to detail, my unequ
 ### My Tech Stack
 
 #### Languages
-<!--<img src="./icons/c.svg" width="50px" height="50px"/>-->
-<img src="./icons/c-plusplus.svg" width="50px" height="50px"/>
-<img src="./icons/c-sharp.svg" width="50px" height="50px"/>
-<img src="./icons/python.svg" width="50px" height="50px"/>
-<img src="./icons/java.svg" width="50px" height="50px"/>
-<img src="./icons/html-5.svg" width="50px" height="50px"/>
-<img src="./icons/javascript.svg" width="50px" height="50px"/>
-<img src="./icons/jquery.svg" width="50px" height="50px"/>
-<img src="./icons/php.svg" width="50px" height="50px"/>
-<img src="./icons/css-3.svg" width="50px" height="50px"/>
-<img src="./icons/sass.svg" width="50px" height="50px"/>
-<img src="./icons/dart.svg" width="50px" height="50px"/>
-<img src="./icons/flutter.svg" width="50px" height="50px"/>
+<p align ="left">
+  <!--<img src="./icons/c.svg" width="50px" height="50px"/>-->
+  <img src="./icons/c-plusplus.svg" width="50px" height="50px"/>
+  <img src="./icons/c-sharp.svg" width="50px" height="50px"/>
+  <img src="./icons/python.svg" width="50px" height="50px"/>
+  <img src="./icons/java.svg" width="50px" height="50px"/>
+  <img src="./icons/html-5.svg" width="50px" height="50px"/>
+  <img src="./icons/javascript.svg" width="50px" height="50px"/>
+  <img src="./icons/jquery.svg" width="50px" height="50px"/>
+  <img src="./icons/php.svg" width="50px" height="50px"/>
+  <img src="./icons/css-3.svg" width="50px" height="50px"/>
+  <img src="./icons/sass.svg" width="50px" height="50px"/>
+  <img src="./icons/dart.svg" width="50px" height="50px"/>
+  <img src="./icons/flutter.svg" width="50px" height="50px"/>
+</p>
   
 #### Tools
-<img src="./icons/mysql.svg" width="50px" height="50px"/>
-<img src="./icons/firebase.svg" width="50px" height="50px"/>
-<img src="./icons/tensorflow.svg" width="50px" height="50px"/>
-<img src="./icons/react.svg" width="50px" height="50px"/>
-<img src="./icons/npm.svg" width="50px" height="50px"/>
-<img src="./icons/yarn.svg" width="50px" height="50px"/>
-<img src="./icons/nodejs-icon.svg" width="50px" height="50px"/>
-<img src="./icons/nginx-icon.svg" width="50px" height="50px"/>
-<img src="./icons/flask.svg" width="50px" height="50px"/>
-<img src="./icons/bootstrap.svg" width="50px" height="50px"/>
-<img src="./icons/material-ui.svg" width="50px" height="50px"/>
-<img src="./icons/twilio.svg" width="50px" height="50px"/>
-<img src="./icons/xampp.svg" width="50px" height="50px"/>
-<img src="./icons/git.svg" width="50px" height="50px"/>
-<img src="./icons/github.svg" width="50px" height="50px"/>
-<img src="./icons/opencv.svg" width="50px" height="50px"/>
-<img src="./icons/azure-icon.svg" width="50px" height="50px"/>
-<img src="./icons/raspberry-pi.svg" width="50px" height="50px"/>
-<img src="./icons/arduino.svg" width="50px" height="50px"/>
-<img src="./icons/visual-studio.svg" width="50px" height="50px"/>
-<img src="./icons/visual-studio-code.svg" width="50px" height="50px"/>
-
+<p align ="left"> 
+  <img src="./icons/mysql.svg" width="50px" height="50px"/>
+  <img src="./icons/firebase.svg" width="50px" height="50px"/>
+  <img src="./icons/tensorflow.svg" width="50px" height="50px"/>
+  <img src="./icons/react.svg" width="50px" height="50px"/>
+  <img src="./icons/npm.svg" width="50px" height="50px"/>
+  <img src="./icons/yarn.svg" width="50px" height="50px"/>
+  <img src="./icons/nodejs-icon.svg" width="50px" height="50px"/>
+  <img src="./icons/nginx-icon.svg" width="50px" height="50px"/>
+  <img src="./icons/flask.svg" width="50px" height="50px"/>
+  <img src="./icons/bootstrap.svg" width="50px" height="50px"/>
+  <img src="./icons/material-ui.svg" width="50px" height="50px"/>
+  <img src="./icons/twilio.svg" width="50px" height="50px"/>
+  <img src="./icons/xampp.svg" width="50px" height="50px"/>
+  <img src="./icons/git.svg" width="50px" height="50px"/>
+  <img src="./icons/github.svg" width="50px" height="50px"/>
+  <img src="./icons/opencv.svg" width="50px" height="50px"/>
+  <img src="./icons/azure-icon.svg" width="50px" height="50px"/>
+  <img src="./icons/raspberry-pi.svg" width="50px" height="50px"/>
+  <img src="./icons/arduino.svg" width="50px" height="50px"/>
+  <img src="./icons/visual-studio.svg" width="50px" height="50px"/>
+  <img src="./icons/visual-studio-code.svg" width="50px" height="50px"/>
+</p>  
   
 📈 ## My GitHub Stats:##
 
