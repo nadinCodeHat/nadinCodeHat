@@ -19,7 +19,10 @@ I am a self-taught computer engineer and a full stack developer, specializing in
 
 As a computer engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
 
-📈 **My GitHub Stats:**
+### Tech Stack
+<img src="./icons/c.svg"/>
+  
+📈 ## My GitHub Stats:##
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nadinCodeHat&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
