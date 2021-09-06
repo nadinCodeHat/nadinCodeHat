@@ -26,6 +26,7 @@ As a computer engineer, I enjoy using my obsessive attention to detail, my unequ
   
 <br>
 - 🔭 I’m currently working on my Final Year Research Project.
+<br>
 - 🌱 I’m currently researching on Deep Learning and Image Processing.
 
   
