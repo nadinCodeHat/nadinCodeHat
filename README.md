@@ -19,7 +19,51 @@ I am a self-taught computer engineer and a full stack developer, specializing in
 
 As a computer engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
 
-📈 **My GitHub Stats:**
+### My Tech Stack
+
+#### Languages
+<p align ="left">
+  <!--<img src="./icons/c.svg" width="50px" height="50px"/>-->
+  <img src="./icons/c-plusplus.svg" width="50px" height="50px"/>
+  <img src="./icons/c-sharp.svg" width="50px" height="50px"/>
+  <img src="./icons/python.svg" width="50px" height="50px"/>
+  <img src="./icons/java.svg" width="50px" height="50px"/>
+  <img src="./icons/html-5.svg" width="50px" height="50px"/>
+  <img src="./icons/javascript.svg" width="50px" height="50px"/>
+  <img src="./icons/jquery-icon.svg" width="50px" height="50px"/>
+  <img src="./icons/php.svg" width="50px" height="50px"/>
+  <img src="./icons/css-3.svg" width="50px" height="50px"/>
+  <img src="./icons/sass.svg" width="50px" height="50px"/>
+  <img src="./icons/dart.svg" width="50px" height="50px"/>
+  <img src="./icons/flutter.svg" width="50px" height="50px"/>
+</p>
+  
+#### Tools
+<p align ="left"> 
+  <img src="./icons/mysql.svg" width="50px" height="50px"/>
+  <img src="./icons/firebase.svg" width="50px" height="50px"/>
+  <img src="./icons/tensorflow.svg" width="50px" height="50px"/>
+  <img src="./icons/react.svg" width="50px" height="50px"/>
+  <img src="./icons/npm.svg" width="50px" height="50px"/>
+  <img src="./icons/yarn.svg" width="50px" height="50px"/>
+  <img src="./icons/nodejs-icon.svg" width="50px" height="50px"/>
+  <img src="./icons/nginx-icon.svg" width="50px" height="50px"/>
+  <img src="./icons/flask.svg" width="50px" height="50px"/>
+  <img src="./icons/bootstrap.svg" width="50px" height="50px"/>
+  <img src="./icons/material-ui.svg" width="50px" height="50px"/>
+  <img src="./icons/twilio.svg" width="50px" height="50px"/>
+  <img src="./icons/xampp.svg" width="50px" height="50px"/>
+  <img src="./icons/git-icon.svg" width="50px" height="50px"/>
+  <img src="./icons/github-icon.svg" width="50px" height="50px"/>
+  <img src="./icons/opencv.svg" width="50px" height="50px"/>
+  <img src="./icons/azure-icon.svg" width="50px" height="50px"/>
+  <img src="./icons/raspberry-pi.svg" width="50px" height="50px"/>
+  <img src="./icons/arduino.svg" width="50px" height="50px"/>
+  <img src="./icons/visual-studio.svg" width="50px" height="50px"/>
+  <img src="./icons/visual-studio-code.svg" width="50px" height="50px"/>
+</p>  
+  
+📈 ## My GitHub Stats:##
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nadinCodeHat&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
