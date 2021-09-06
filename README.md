@@ -30,7 +30,7 @@ As a computer engineer, I enjoy using my obsessive attention to detail, my unequ
   <img src="./icons/java.svg" width="50px" height="50px"/>
   <img src="./icons/html-5.svg" width="50px" height="50px"/>
   <img src="./icons/javascript.svg" width="50px" height="50px"/>
-  <img src="./icons/jquery.svg" width="50px" height="50px"/>
+  <img src="./icons/jquery-icon.svg" width="50px" height="50px"/>
   <img src="./icons/php.svg" width="50px" height="50px"/>
   <img src="./icons/css-3.svg" width="50px" height="50px"/>
   <img src="./icons/sass.svg" width="50px" height="50px"/>
@@ -53,8 +53,8 @@ As a computer engineer, I enjoy using my obsessive attention to detail, my unequ
   <img src="./icons/material-ui.svg" width="50px" height="50px"/>
   <img src="./icons/twilio.svg" width="50px" height="50px"/>
   <img src="./icons/xampp.svg" width="50px" height="50px"/>
-  <img src="./icons/git.svg" width="50px" height="50px"/>
-  <img src="./icons/github.svg" width="50px" height="50px"/>
+  <img src="./icons/git-icon.svg" width="50px" height="50px"/>
+  <img src="./icons/github-icon.svg" width="50px" height="50px"/>
   <img src="./icons/opencv.svg" width="50px" height="50px"/>
   <img src="./icons/azure-icon.svg" width="50px" height="50px"/>
   <img src="./icons/raspberry-pi.svg" width="50px" height="50px"/>
