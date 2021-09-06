@@ -19,6 +19,16 @@ I am a self-taught computer engineer and a full stack developer, specializing in
 
 As a computer engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
 
+### Research Interests
+- Deep Learning
+- Computer Vision
+- IoT (Internet of Things)
+  
+
+- 🔭 I’m currently working on my Final Year Research Project.
+- 🌱 I’m currently researching on Deep Learning and Image Processing.
+
+  
 ### My Tech Stack
 
 #### Languages
