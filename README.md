@@ -24,7 +24,7 @@ As a computer engineer, I enjoy using my obsessive attention to detail, my unequ
 - Computer Vision
 - IoT (Internet of Things)
   
-
+<br>
 - 🔭 I’m currently working on my Final Year Research Project.
 - 🌱 I’m currently researching on Deep Learning and Image Processing.
 
