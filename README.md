@@ -84,7 +84,7 @@ As a computer engineer, I enjoy using my obsessive attention to detail, my unequ
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nadinCodeHat&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=nadinCodeHat&theme=light&hide_border=false&date_format=M%20j%5B%2C%20Y%5D"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadinCodeHat&theme=light&langs_count=9&layout=compact&border=false"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nadinCodeHat"/>
 </p>
 
