@@ -14,22 +14,24 @@
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nadin-pethiyagoda-62b424190/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/NadinPethiyago1)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/peththa__/)
-[![Reddit Badge](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/nadinCodeHat)
+<!--[![Reddit Badge](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/nadinCodeHat)-->
 [![Stack Overflow Badge](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/12984503/nadincodehat)
-[![Quora Badge](https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white)](https://www.quora.com/profile/Nadin-Pethiyagoda)
-[![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/nadinCodeHat)
+<!--[![Quora Badge](https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white)](https://www.quora.com/profile/Nadin-Pethiyagoda)-->
+<!--[![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/nadinCodeHat)-->
 [![Research Gate Badge](https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Nadin-Pethiyagoda)
   
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=nadinCodeHat)
 
-I am a self-taught computer engineer and a full stack developer, specializing in Embedded Systems and IoT programming, Mobile development and .NET development.
+I am a self-taught computer engineer and a full stack developer, specializing in Web Development, .NET development and IoT programming.
 
-As a computer engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
+As a developer, I appreciate bringing my compulsive attention to detail, as well as my undeniable passion for creating things that impact the world, to good use. That's why I enjoy creating things that have a positive impact.
 
 ### Research Interests
 - Deep Learning
 - Computer Vision
-- IoT (Internet of Things) 
+- High Performance Computing
+- Internet of Things
+- Natural Language Processing
 <br>
 - 🔭 I’m currently working on my Final Year Research Project.
 <br>
@@ -47,12 +49,12 @@ As a computer engineer, I enjoy using my obsessive attention to detail, my unequ
   <img src="./icons/java.svg" width="50px" height="50px"/>
   <img src="./icons/html-5.svg" width="50px" height="50px"/>
   <img src="./icons/javascript.svg" width="50px" height="50px"/>
-  <img src="./icons/jquery-icon.svg" width="50px" height="50px"/>
+  <!--<img src="./icons/jquery-icon.svg" width="50px" height="50px"/>-->
   <img src="./icons/php.svg" width="50px" height="50px"/>
   <img src="./icons/css-3.svg" width="50px" height="50px"/>
   <img src="./icons/sass.svg" width="50px" height="50px"/>
-  <img src="./icons/dart.svg" width="50px" height="50px"/>
-  <img src="./icons/flutter.svg" width="50px" height="50px"/>
+  <!--<img src="./icons/dart.svg" width="50px" height="50px"/>-->
+  <!--<img src="./icons/flutter.svg" width="50px" height="50px"/>-->
 </p>
   
 #### Tools
@@ -61,19 +63,19 @@ As a computer engineer, I enjoy using my obsessive attention to detail, my unequ
   <img src="./icons/firebase.svg" width="50px" height="50px"/>
   <img src="./icons/tensorflow.svg" width="50px" height="50px"/>
   <img src="./icons/react.svg" width="50px" height="50px"/>
-  <img src="./icons/npm.svg" width="50px" height="50px"/>
-  <img src="./icons/yarn.svg" width="50px" height="50px"/>
+  <!--<img src="./icons/npm.svg" width="50px" height="50px"/>
+  <img src="./icons/yarn.svg" width="50px" height="50px"/>-->
   <img src="./icons/nodejs-icon.svg" width="50px" height="50px"/>
-  <img src="./icons/nginx-icon.svg" width="50px" height="50px"/>
+  <!--<img src="./icons/nginx-icon.svg" width="50px" height="50px"/>-->
   <img src="./icons/flask.svg" width="50px" height="50px"/>
   <img src="./icons/bootstrap.svg" width="50px" height="50px"/>
   <img src="./icons/material-ui.svg" width="50px" height="50px"/>
   <img src="./icons/twilio.svg" width="50px" height="50px"/>
   <img src="./icons/xampp.svg" width="50px" height="50px"/>
   <img src="./icons/git-icon.svg" width="50px" height="50px"/>
-  <img src="./icons/github-icon.svg" width="50px" height="50px"/>
+  <!--<img src="./icons/github-icon.svg" width="50px" height="50px"/>-->
   <img src="./icons/opencv.svg" width="50px" height="50px"/>
-  <img src="./icons/azure-icon.svg" width="50px" height="50px"/>
+  <!--<img src="./icons/azure-icon.svg" width="50px" height="50px"/>-->
   <img src="./icons/raspberry-pi.svg" width="50px" height="50px"/>
   <img src="./icons/arduino.svg" width="50px" height="50px"/>
   <img src="./icons/visual-studio.svg" width="50px" height="50px"/>
