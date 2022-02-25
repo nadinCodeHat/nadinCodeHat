@@ -32,7 +32,7 @@ As a developer, I appreciate bringing my compulsive attention to detail, as well
 - Computer Vision
 - High Performance Computing
 - Internet of Things
-- Natural Language Processing
+<!--- Natural Language Processing-->
 <br>
 - 🔭 I’m currently working on my Final Year Research Project.
 <br>
