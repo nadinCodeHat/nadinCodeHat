@@ -1,4 +1,4 @@
-<h3 align="center" >Hi there, I'm <a href="https://github.com/nadinCodeHat">Nadin Pethiyagoda</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="auto">
+<h3 align="center" >Hi there, I'm <a href="https://github.com/nadinCodeHat">Nadin Pethiyagoda</a> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <br>
 <br>
