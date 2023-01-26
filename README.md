@@ -33,11 +33,6 @@ As a developer, I appreciate bringing my compulsive attention to detail, as well
 - High Performance Computing
 - Internet of Things
 <!--- Natural Language Processing-->
-<br>
-- 🔭 I’m currently working on my Final Year Research Project.
-<br>
-- 🌱 I’m currently researching on Deep Learning and Image Processing.
-
   
 ### My Tech Stack
 
