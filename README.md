@@ -92,7 +92,5 @@ Diligent Full-Stack Software Engineer possessing a broad range of technical skil
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nadinCodeHat&show_icons=true&theme=radical&include_all_commits=true" />
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadinCodeHat&theme=light&langs_count=9&layout=compact&border=true"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nadinCodeHat"/>
+  <img src="https://streak-stats.demolab.com/?user=nadinCodeHat&theme=ambient-gradient"/>
 </p>
-
-![](https://streak-stats.demolab.com/?user=nadinCodeHat&theme=ambient-gradient)
