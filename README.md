@@ -4,7 +4,7 @@
 <br>
 
 <p align="center">
-  <a href="https://github.com/nadinCodeHat/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Engineer;Full+Stack+Developer;CE+Undergrad;Always+Learning&center=true&width=380&height=45"></a>
+  <a href="https://github.com/nadinCodeHat/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;Full+Stack+Developer;Always+Learning&center=true&width=380&height=45"></a>
 </p>
 
 ### Connect with me:
@@ -27,63 +27,57 @@ Diligent Full-Stack Software Engineer possessing a broad range of technical skil
 
 ### Skills
 
-- Core Java 8
+- Java, JavaScript, TypeScript
 - Angular, React
-- Spring MVC, Spring Boot
+- Spring MVC, Spring Boot, Spring Cloud
 - JPA, Hibernate
 - Microservices
-- Keycloak
-- Resilience4J
-- Zipkin
 - Kafka
 - Docker, Kubernetes
-- SQL, MongoDB
-- GIT, Maven
+- MySQL, PostgreSQL, MongoDB
+- Docker, Kubernetesm, Jenkins, Git, Maven, Linux
+- JUnit, Mockito
 
-### My Tech Stack
-
-#### Languages
-
-<p align ="left">
+<!--<p align ="left">-->
   <!--<img src="./icons/c.svg" width="50px" height="50px"/>-->
-  <img src="./icons/c-plusplus.svg" width="50px" height="50px"/>
+<!--   <img src="./icons/c-plusplus.svg" width="50px" height="50px"/>
   <img src="./icons/c-sharp.svg" width="50px" height="50px"/>
   <img src="./icons/python.svg" width="50px" height="50px"/>
-  <img src="./icons/java.svg" width="50px" height="50px"/>
+  <img src="./icons/java.svg" width="50px" height="50px"/> -->
   <!-- <img src="./icons/html-5.svg" width="50px" height="50px"/> -->
-  <img src="./icons/javascript.svg" width="50px" height="50px"/>
+<!--   <img src="./icons/javascript.svg" width="50px" height="50px"/> -->
   <!--<img src="./icons/jquery-icon.svg" width="50px" height="50px"/>-->
   <!-- <img src="./icons/php.svg" width="50px" height="50px"/>
   <img src="./icons/css-3.svg" width="50px" height="50px"/>
   <img src="./icons/sass.svg" width="50px" height="50px"/> -->
   <!--<img src="./icons/dart.svg" width="50px" height="50px"/>-->
   <!--<img src="./icons/flutter.svg" width="50px" height="50px"/>-->
-</p>
+<!-- </p> -->
 
-#### Tools
+
 
 <p align ="left">
-  <img src="./icons/mysql.svg" width="50px" height="50px"/>
+<!--   <img src="./icons/mysql.svg" width="50px" height="50px"/>
   <img src="./icons/firebase.svg" width="50px" height="50px"/>
   <img src="./icons/tensorflow.svg" width="50px" height="50px"/>
-  <img src="./icons/react.svg" width="50px" height="50px"/>
+  <img src="./icons/react.svg" width="50px" height="50px"/> -->
   <!--<img src="./icons/npm.svg" width="50px" height="50px"/>
   <img src="./icons/yarn.svg" width="50px" height="50px"/>-->
-  <img src="./icons/nodejs-icon.svg" width="50px" height="50px"/>
+<!--   <img src="./icons/nodejs-icon.svg" width="50px" height="50px"/> -->
   <!--<img src="./icons/nginx-icon.svg" width="50px" height="50px"/>-->
-  <img src="./icons/flask.svg" width="50px" height="50px"/>
+<!--   <img src="./icons/flask.svg" width="50px" height="50px"/>
   <img src="./icons/bootstrap.svg" width="50px" height="50px"/>
   <img src="./icons/material-ui.svg" width="50px" height="50px"/>
   <img src="./icons/twilio.svg" width="50px" height="50px"/>
   <img src="./icons/xampp.svg" width="50px" height="50px"/>
-  <img src="./icons/git-icon.svg" width="50px" height="50px"/>
+  <img src="./icons/git-icon.svg" width="50px" height="50px"/> -->
   <!--<img src="./icons/github-icon.svg" width="50px" height="50px"/>-->
-  <img src="./icons/opencv.svg" width="50px" height="50px"/>
+<!--   <img src="./icons/opencv.svg" width="50px" height="50px"/> -->
   <!--<img src="./icons/azure-icon.svg" width="50px" height="50px"/>-->
-  <img src="./icons/raspberry-pi.svg" width="50px" height="50px"/>
+<!--   <img src="./icons/raspberry-pi.svg" width="50px" height="50px"/>
   <img src="./icons/arduino.svg" width="50px" height="50px"/>
   <img src="./icons/visual-studio.svg" width="50px" height="50px"/>
-  <img src="./icons/visual-studio-code.svg" width="50px" height="50px"/>
+  <img src="./icons/visual-studio-code.svg" width="50px" height="50px"/> -->
 </p>
 
 📈 **My GitHub Stats:**
