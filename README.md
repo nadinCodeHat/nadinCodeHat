@@ -23,21 +23,17 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=nadinCodeHat)
 
-Diligent Full-Stack Software Engineer possessing a broad range of technical skills in frontend and backend development, proficient in developing and maintain web applications and dedicated to delivering innovative solutions that add value for clients and businesses.
+Diligent Full-Stack Software Engineer with 3+ years of experience having strong knowledge in Java as an Oracle Certified Associate, possessing a broad range of technical expertise in front-end, back-end development and AWS while maintaining high coding standards and industry best practices, proficient in designing, implementing, and maintaining enterprise-grade solutions and dedicated to delivering innovative solutions that add value for clients and businesses, reflecting expertise across domains in Consumer Food, Banking and Finance and Apparel Manufacturing.
 
 ### Skills
 
-- Java, JavaScript, TypeScript
-- Angular, React
-- Spring MVC, Spring Boot, Spring Cloud
-- JPA, Hibernate
-- Microservices
-- Kafka
-- Docker, Kubernetes
-- MySQL, PostgreSQL, MongoDB
-- Docker, Kubernetesm, Jenkins, Git, Maven, Linux
-- JUnit, Mockito
-
+- Java (8, 17), JavaScript, TypeScript, Python, HTML, CSS
+- Spring (Boot, MVC, Cloud, Data, Security), Node.js, React, Next.js, Redux, RxJs, Express, JPA, Hibernate, Sequelize, Zipkin, gRPC, Swagger
+- Microservices, Backend-For-Frontend (BFF), Serverless, Design Patterns, OOP, REST, TDD
+- MySQL, PostgreSQL, MongoDB, Oracle DB
+- AWS (EC2, ECS, CloudFormation, Lambda Functions, RDS, Redshift, Step Functions, SSM, SQS, S3), Docker, Jenkins, SonarQube, Datadog, Git, Github, GitLab, Bitbucket, Maven, Gradle, Linux
+- JUnit, Mockito, Jest, Python Unittest
+  
 <!--<p align ="left">-->
   <!--<img src="./icons/c.svg" width="50px" height="50px"/>-->
 <!--   <img src="./icons/c-plusplus.svg" width="50px" height="50px"/>
